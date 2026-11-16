@@ -60,8 +60,8 @@
 
 ### 🤝 Connect With Me
 
-- Portfolio: YOUR_PORTFOLIO_LINK
-- LinkedIn: YOUR_LINKEDIN_LINK
+- Portfolio: https://sreeharsha31.github.io/portfolio
+- LinkedIn: https://www.linkedin.com/in/sree-harsha-31m
 - GitHub: https://github.com/sreeharsha31
 
 ---
