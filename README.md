@@ -6,12 +6,12 @@
 ### Aspiring DevOps Engineer | Cloud Computing | CI/CD Automation
 
 <p>
-  <a href="https://sreeharsha31.github.io/portfolio/">🌐 Portfolio</a> •
+  <a href="YOUR_PORTFOLIO_URL">🌐 Portfolio</a> •
   <a href="https://www.linkedin.com/in/sree-harsha-31m/">LinkedIn</a> •
   <a href="https://github.com/sreeharsha31">GitHub</a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=sreeharsha31&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=sreeharsha31&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
 </div>
 
@@ -21,8 +21,8 @@
 
 - 🎓 B.Tech in Computer Science and Engineering (2026).
 - ☁️ Interested in Cloud Computing and DevOps Engineering.
-- 🚀 Learning to build and automate CI/CD pipelines.
-- 🐳 Practicing containerization and orchestration using Docker and Kubernetes.
+- 🚀 Learning CI/CD pipeline automation.
+- 🐳 Practicing containerization and orchestration.
 - 🔧 Exploring Infrastructure as Code and cloud automation.
 - 💡 Passionate about learning, building and solving real-world problems.
 
@@ -33,26 +33,37 @@
 ### 💻 Programming & Web Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,cpp,c,js,html,css,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=java,cpp,html,css,js,nodejs,express" />
 </p>
 
-### ☁️ Cloud Platforms
+### ☁️ Cloud Platform
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,azure" />
+<img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
 ### ⚙️ DevOps & Automation
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,jenkins,terraform,ansible,git,github,prometheus,grafana" />
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,jenkins,terraform,ansible" />
 </p>
 
-### 🗄️ Databases & Tools
+### 🔧 Version Control
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,vscode,bash" />
+<img src="https://skillicons.dev/icons?i=git,github" />
 </p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🖥️ Operating Systems
+
+- Linux
+- Windows
 
 ---
 
@@ -62,31 +73,19 @@
 
 A practical DevOps learning and automation resource covering tools, workflows and implementation.
 
-🔗 [View Repository](https://github.com/sreeharsha31/devops-ai-playbook)
+🔗 [Explore My GitHub Repositories](https://github.com/sreeharsha31?tab=repositories)
 
-### 2. AI Kubernetes Agent
-
-A project focused on AI-assisted Kubernetes operations and automation.
-
-🔗 [View Repository](https://github.com/sreeharsha31/ai-k8s-agent)
-
-### 3. Driver Drowsiness Detection System
+### 2. Driver Drowsiness Detection System
 
 A computer vision project using Python, OpenCV, Dlib and TensorFlow to detect driver drowsiness.
 
 🔗 [Explore My GitHub Repositories](https://github.com/sreeharsha31?tab=repositories)
 
----
+### 3. Multi-Cloud Resource Management Platform
 
-## 📊 GitHub Statistics
+A cloud resource management project focused on cost optimization, workload balancing and failover automation.
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sreeharsha31&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreeharsha31&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-
-</div>
+🔗 [Explore My GitHub Repositories](https://github.com/sreeharsha31?tab=repositories)
 
 ---
 
@@ -94,7 +93,7 @@ A computer vision project using Python, OpenCV, Dlib and TensorFlow to detect dr
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=sreeharsha31&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=sreeharsha31&theme=tokyonight&hide_border=true" width="90%" />
 
 </div>
 
@@ -113,6 +112,7 @@ A computer vision project using Python, OpenCV, Dlib and TensorFlow to detect dr
 ## 🤝 Connect With Me
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/sree-harsha-31m/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
@@ -121,9 +121,10 @@ A computer vision project using Python, OpenCV, Dlib and TensorFlow to detect dr
 <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://sreeharsha31.github.io/portfolio/">
+<a href="YOUR_PORTFOLIO_URL">
 <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=googlechrome"/>
 </a>
+
 </p>
 
 ---
