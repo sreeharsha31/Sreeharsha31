@@ -106,17 +106,6 @@ A computer vision project using Python, OpenCV, Dlib and TensorFlow to detect dr
 🔗 [Explore My GitHub Repositories](https://github.com/sreeharsha31?tab=repositories)
 
 ---
-
-## 🐍 GitHub Contribution Activity
-
-<div align="center">
-
-![GitHub Contribution Snake](https://raw.githubusercontent.com/sreeharsha31/Sreharsha31/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
