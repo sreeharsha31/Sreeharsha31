@@ -6,8 +6,8 @@
 ### Aspiring DevOps Engineer | Cloud Computing | CI/CD Automation
 
 <p>
-  <a href="YOUR_PORTFOLIO_LINK">🌐 Portfolio</a> •
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
+  <a href="https://sreeharsha31.github.io/portfolio/">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/sree-harsha-31m/">LinkedIn</a> •
   <a href="https://github.com/sreeharsha31">GitHub</a>
 </p>
 
@@ -113,7 +113,7 @@ A computer vision project using Python, OpenCV, Dlib and TensorFlow to detect dr
 ## 🤝 Connect With Me
 
 <p align="center">
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/sree-harsha-31m/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -121,7 +121,7 @@ A computer vision project using Python, OpenCV, Dlib and TensorFlow to detect dr
 <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_LINK">
+<a href="https://sreeharsha31.github.io/portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=googlechrome"/>
 </a>
 </p>
