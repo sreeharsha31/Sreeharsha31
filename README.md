@@ -1,29 +1,31 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Golla Sree Harsha
+# 👋 Hi! I'm Golla Sree Harsha
 
-### Aspiring DevOps Engineer | Cloud Computing | CI/CD Automation
+### Aspiring DevOps Engineer | Cloud Infrastructure | Kubernetes | CI/CD Automation
 
-
-<p align="center">
-
-<a href="https://sreeharsha31.github.io/portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/sree-harsha-31m/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/sreeharsha31">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
+<p>
+  <a href="https://sreeharsha31.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-VISIT-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sree-harsha-31m/">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/sreeharsha31">
+    <img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=sreeharsha31&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
-<img src="https://komarev.com/ghpvc/?username=sreeharsha31&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Cloud+Infrastructure+%26+Automation;Building+CI%2FCD+Pipelines;Learning+Docker+%26+Kubernetes;Exploring+AWS+%26+DevOps" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,jenkins,terraform,ansible,git&perline=8" />
 
 </div>
 
@@ -33,10 +35,10 @@
 
 - 🎓 B.Tech in Computer Science and Engineering (2026).
 - ☁️ Interested in Cloud Computing and DevOps Engineering.
-- 🚀 Learning CI/CD pipeline automation.
-- 🐳 Practicing containerization and orchestration.
-- 🔧 Exploring Infrastructure as Code and cloud automation.
-- 💡 Passionate about learning, building and solving real-world problems.
+- 🚀 Learning CI/CD pipeline automation using Jenkins.
+- 🐳 Practicing containerization using Docker and Kubernetes.
+- 🔧 Exploring Infrastructure as Code using Terraform and Ansible.
+- 💡 Passionate about building, automating and learning new technologies.
 
 ---
 
@@ -83,39 +85,33 @@
 
 ### 1. DevOps AI Playbook
 
-A practical DevOps learning and automation resource covering tools, workflows and implementation.
+A practical DevOps learning resource covering tools, workflows and automation concepts.
 
 🔗 [Explore My GitHub Repositories](https://github.com/sreeharsha31?tab=repositories)
 
-### 2. Driver Drowsiness Detection System
+### 2. Multi-Cloud Resource Management Platform
+
+A cloud management project focused on:
+
+- Cloud cost optimization
+- Workload balancing
+- Failover automation
+
+🔗 [Explore My GitHub Repositories](https://github.com/sreeharsha31?tab=repositories)
+
+### 3. Driver Drowsiness Detection System
 
 A computer vision project using Python, OpenCV, Dlib and TensorFlow to detect driver drowsiness.
 
 🔗 [Explore My GitHub Repositories](https://github.com/sreeharsha31?tab=repositories)
 
-### 3. Multi-Cloud Resource Management Platform
-
-A cloud resource management project focused on cost optimization, workload balancing and failover automation.
-
-🔗 [Explore My GitHub Repositories](https://github.com/sreeharsha31?tab=repositories)
-
 ---
 
-## 🔥 GitHub Contribution Streak
+## 🐍 GitHub Contribution Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=sreeharsha31&theme=tokyonight&hide_border=true" width="90%" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sreeharsha31&theme=tokyo-night&hide_border=true" width="100%" />
+![GitHub Contribution Snake](https://raw.githubusercontent.com/sreeharsha31/Sreharsha31/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -123,27 +119,27 @@ A cloud resource management project focused on cost optimization, workload balan
 
 ## 🤝 Connect With Me
 
-<p align="center">
+<div align="center">
+
+<a href="https://sreeharsha31.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
 <a href="https://www.linkedin.com/in/sree-harsha-31m/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/sreeharsha31">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://sreeharsha31.github.io/portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=googlechrome"/>
-</a>
-
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### 🚀 Learning | Building | Automating | Growing
+### 🚀 LEARN • BUILD • AUTOMATE • GROW
 
 *Turning knowledge into practical solutions.*
 
