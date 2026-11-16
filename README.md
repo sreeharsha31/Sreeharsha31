@@ -6,7 +6,7 @@
 ### Aspiring DevOps Engineer | Cloud Computing | CI/CD Automation
 
 <p>
-  <a href="YOUR_PORTFOLIO_URL">🌐 Portfolio</a> •
+  <a href="https://sreeharsha31.github.io/portfolio/">🌐 Portfolio</a> •
   <a href="https://www.linkedin.com/in/sree-harsha-31m/">LinkedIn</a> •
   <a href="https://github.com/sreeharsha31">GitHub</a>
 </p>
@@ -121,7 +121,7 @@ A cloud resource management project focused on cost optimization, workload balan
 <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://sreeharsha31.github.io/portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=googlechrome"/>
 </a>
 
