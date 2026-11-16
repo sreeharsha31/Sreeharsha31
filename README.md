@@ -16,16 +16,6 @@
     <img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
-<div align="center">
-
-<img src="./assets/devops-banner.png"
-     alt="DevOps Cloud Infrastructure Banner"
-     width="100%"/>
-
-</div>
-
-
 <img src="https://komarev.com/ghpvc/?username=sreeharsha31&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 <br/>
