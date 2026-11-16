@@ -1,71 +1,137 @@
 
-<h1 align="center">Hi 👋, I'm Sree Harsha</h1>
-<h3 align="center">Aspiring DevOps Engineer | Cloud Computing | CI/CD Automation</h3>
+<div align="center">
 
-<p align="center">
-  <a href="YOUR_PORTFOLIO_LINK">Portfolio</a> •
-  <a href="https://github.com/sreeharsha31">GitHub</a> •
-  <a href="YOUR_LINKEDIN_LINK">LinkedIn</a>
+# 👋 Hi, I'm Golla Sree Harsha
+
+### Aspiring DevOps Engineer | Cloud Computing | CI/CD Automation
+
+<p>
+  <a href="YOUR_PORTFOLIO_LINK">🌐 Portfolio</a> •
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
+  <a href="https://github.com/sreeharsha31">GitHub</a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=sreeharsha31&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech in Computer Science and Engineering (2026).
+- ☁️ Interested in Cloud Computing and DevOps Engineering.
+- 🚀 Learning to build and automate CI/CD pipelines.
+- 🐳 Practicing containerization and orchestration using Docker and Kubernetes.
+- 🔧 Exploring Infrastructure as Code and cloud automation.
+- 💡 Passionate about learning, building and solving real-world problems.
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming & Web Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,cpp,c,js,html,css,nodejs,express" />
+</p>
+
+### ☁️ Cloud Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure" />
+</p>
+
+### ⚙️ DevOps & Automation
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,jenkins,terraform,ansible,git,github,prometheus,grafana" />
+</p>
+
+### 🗄️ Databases & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,vscode,bash" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 🚀 Featured Projects
 
-- 🎓 B.Tech Computer Science and Engineering Graduate (2026)
-- ☁️ Interested in Cloud Computing and DevOps Engineering
-- 🔧 Learning CI/CD automation and cloud infrastructure
-- 🐳 Practicing Docker and Kubernetes
-- 🚀 Building projects to improve my practical skills
-- 📚 Continuously learning new technologies
+### 1. DevOps AI Playbook
 
-### 🛠️ Technical Skills
+A practical DevOps learning and automation resource covering tools, workflows and implementation.
 
-**Programming & Web Development**
+🔗 [View Repository](https://github.com/sreeharsha31/devops-ai-playbook)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 2. AI Kubernetes Agent
 
-**Cloud & DevOps**
+A project focused on AI-assisted Kubernetes operations and automation.
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+🔗 [View Repository](https://github.com/sreeharsha31/ai-k8s-agent)
 
-**Database**
+### 3. Driver Drowsiness Detection System
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+A computer vision project using Python, OpenCV, Dlib and TensorFlow to detect driver drowsiness.
 
-### 🚀 Featured Projects
-
-- **DevOps CI/CD Pipeline** – Automated application build and deployment using Jenkins, Maven and Docker.
-- **Multi-Cloud Resource Management Platform** – Cloud resource management, cost optimization and workload balancing.
-- **Developer Portfolio** – Personal portfolio website hosted using GitHub Pages.
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sreeharsha31&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreeharsha31&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
-### 🤝 Connect With Me
-
-- Portfolio: https://sreeharsha31.github.io/portfolio
-- LinkedIn: https://www.linkedin.com/in/sree-harsha-31m
-- GitHub: https://github.com/sreeharsha31
+🔗 [Explore My GitHub Repositories](https://github.com/sreeharsha31?tab=repositories)
 
 ---
 
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sreeharsha31&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreeharsha31&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+
+</div>
+
+---
+
+## 🔥 GitHub Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=sreeharsha31&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sreeharsha31&theme=tokyo-night&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
 <p align="center">
-  <i>Learning, Building, Automating and Growing 🚀</i>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/sreeharsha31">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=googlechrome"/>
+</a>
 </p>
+
+---
+
+<div align="center">
+
+### 🚀 Learning | Building | Automating | Growing
+
+*Turning knowledge into practical solutions.*
+
+</div>
