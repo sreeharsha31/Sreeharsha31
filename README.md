@@ -5,11 +5,23 @@
 
 ### Aspiring DevOps Engineer | Cloud Computing | CI/CD Automation
 
-<p>
-  <a href="https://sreeharsha31.github.io/portfolio/">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/sree-harsha-31m/">LinkedIn</a> •
-  <a href="https://github.com/sreeharsha31">GitHub</a>
+
+<p align="center">
+
+<a href="https://sreeharsha31.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/sree-harsha-31m/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/sreeharsha31">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </p>
+
 
 <img src="https://komarev.com/ghpvc/?username=sreeharsha31&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
